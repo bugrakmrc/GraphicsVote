@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\GraphicsVote\GraphicsVote\bin\Debug\GraphicsVote.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\bin\Debug\GraphicsVote.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\bin\Debug\GraphicsVote.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\obj\Debug\GraphicsVote.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\obj\Debug\GraphicsVote.Form1.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\obj\Debug\GraphicsVote.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\obj\Debug\GraphicsVote.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\obj\Debug\GraphicsVote.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\GraphicsVote\GraphicsVote\obj\Debug\GraphicsVote.pdb
